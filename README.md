@@ -1,3 +1,3 @@
-<p align="center">
-   <img width="600" src="https://files.catbox.moe/pso4sp.gif"
-</p>
+<div id="header" align="center">  
+
+<img src="https://files.catbox.moe/zcsmv4.png" alt="" width="400">
